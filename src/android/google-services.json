@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "29671343648",
+    "firebase_url": "https://radical-fitness-mobile.firebaseio.com",
+    "project_id": "radical-fitness-mobile",
+    "storage_bucket": "radical-fitness-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29671343648:android:2f2ce00b991c635e",
+        "android_client_info": {
+          "package_name": "ar.com.protean.radicalfitness.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29671343648-864o09d25bs5glrd5r0bf7t62anbqqps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.protean.radicalfitness.mobile",
+            "certificate_hash": "ab16e8f5d47bfc2cc5feb27bb4ffa41f1bcd4fad"
+          }
+        },
+        {
+          "client_id": "29671343648-a71pt3lo24tvaufnvub5u4ihnb74aiq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1mkMJazt69fduC3US1Yy5fgz-fHtATg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29671343648-a71pt3lo24tvaufnvub5u4ihnb74aiq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29671343648-s1tc981rcv34jq0ngctdqfnbe5j1fpjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ar.com.protean.radicalfitness",
+                "app_store_id": "1325015166"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
